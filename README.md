@@ -1,1 +1,1 @@
-Arsenal loadouts, exemple missions and useful scripts to make basic ARMA III mission.
+Arsenal loadouts, sample mission templates and useful scripts to make basic ARMA III mission.
